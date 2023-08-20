@@ -59,7 +59,7 @@ cok.ai (cok.ai) browser extension supports Chrome and Edge with functionality co
 
 ### Deploy With Vercel
 
-[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frockbenben%2FChatGPT-Shortcut%2Ftree%2Fgh-pages)
+[![Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2privacyrepo%2Fcok.ai%2Ftree%2Fgh-pages)
 
 ### Installation
 
