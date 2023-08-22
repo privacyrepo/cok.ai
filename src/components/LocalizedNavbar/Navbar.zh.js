@@ -2,7 +2,7 @@ const zhNavbar = {
   hideOnScroll: true,
   title: "COK AI",
   logo: {
-    alt: "COK AIs",
+    alt: "COK AI",
     src: "img/logo.svg",
   },
   items: [
