@@ -18,7 +18,7 @@ cok.ai offre un elenco conciso e facile da usare di istruzioni AI. Anche senza c
 
 🗳️ **Sistema di votazione della comunità**: Simile a Product Hunt o Reddit, la piattaforma è guidata dalla comunità. I migliori prompts verranno spinti in homepage.
 
-📦 **Pronto all'uso**: Basta visitare <https://www.cok.ai.top/it/> per iniziare a usare.
+📦 **Pronto all'uso**: Basta visitare <https://www.cok.ai/it/> per iniziare a usare.
 
 La fonte dei prompts di cok.ai include selezioni Internet, condivisioni della comunità e [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts). Aggiorneremo regolarmente per fornirti nuovi prompts e ispirazione.
 
@@ -30,7 +30,7 @@ Benvenuto a unirti alla nostra comunità Discord per scambiare idee e feedback.
 
 ## Estensione del browser
 
-L'estensione del browser cok.ai (ChatGPT Shortcut) supporta Chrome e Edge con funzionalità coerente con la versione web ed è regolarmente aggiornata. L'estensione può essere attivata automaticamente non appena la pagina ChatGPT si carica, oppure è possibile attivare la finestra dell'estensione premendo la combinazione di tasti `Alt+Shift+S`.
+L'estensione del browser cok.ai (COK AI) supporta Chrome e Edge con funzionalità coerente con la versione web ed è regolarmente aggiornata. L'estensione può essere attivata automaticamente non appena la pagina ChatGPT si carica, oppure è possibile attivare la finestra dell'estensione premendo la combinazione di tasti `Alt+Shift+S`.
 
 <a href="https://chrome.google.com/webstore/detail/cok.ai/blcgeoojgdpodnmnhfpohphdhfncblnj">
   <img src="https://img.newzone.top/2023-06-05-12-28-49.png?imageMogr2/format/webp"  alt="Chrome" valign="middle" /></a>

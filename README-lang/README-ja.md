@@ -16,7 +16,7 @@
 <a href="./README-bn.md">বাংলা</a>
 </p>
 <p align="center">
-    <em>ChatGPT Shortcut, Maximize your Efficiency and Productivity</em>
+    <em>COK AI, Maximize your Efficiency and Productivity</em>
 </p>
 
 ## Why use cok.ai?
@@ -35,9 +35,9 @@ cok.ai は、簡潔で使いやすい AI 指示のリストを提供します。
 
 🗳️ **コミュニティ投票システム**: Product Hunt や Reddit のように、プラットフォームはコミュニティ駆動型です。最高のプロンプトはホームページに推されます。
 
-📦 **すぐに使用可能**: <https://www.cok.ai.top/ja/>を訪問してすぐに使用を開始します。
+📦 **すぐに使用可能**: <https://www.cok.ai/ja/>を訪問してすぐに使用を開始します。
 
-cok.ai のプロンプトの源は、インターネットの選択、コミュニティの共有、そして[Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)によるものです。私たちは定期的に更新を行い、新しいプロンプトとインスピレーションを提供します。cok.ai の使い方を理解するために、[ユーザーマニュアル](https://www.cok.ai.top/ja/docs/guides/getting-started)を参照してください。
+cok.ai のプロンプトの源は、インターネットの選択、コミュニティの共有、そして[Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)によるものです。私たちは定期的に更新を行い、新しいプロンプトとインスピレーションを提供します。cok.ai の使い方を理解するために、[ユーザーマニュアル](https://www.cok.ai/ja/docs/guides/getting-started)を参照してください。
 
 アイデアとフィードバックを交換するために、私たちの Discord コミュニティに参加することを歓迎します。
 
@@ -47,7 +47,7 @@ cok.ai のプロンプトの源は、インターネットの選択、コミュ�
 
 ## ブラウザエクステンション
 
-cok.ai（ChatGPT Shortcut）のブラウザエクステンションは、Chrome と Edge をサポートしており、Web 版と同じ機能を持ち、定期的に更新されます。エクステンションは ChatGPT のページが読み込まれると自動的にトリガーされるか、または`Alt+Shift+S`ホットキーを押すことでエクステンションウィンドウをアクティブにすることができます。
+cok.ai（COK AI）のブラウザエクステンションは、Chrome と Edge をサポートしており、Web 版と同じ機能を持ち、定期的に更新されます。エクステンションは ChatGPT のページが読み込まれると自動的にトリガーされるか、または`Alt+Shift+S`ホットキーを押すことでエクステンションウィンドウをアクティブにすることができます。
 
 <a href="https://chrome.google.com/webstore/detail/cok.ai/blcgeoojgdpodnmnhfpohphdhfncblnj">
   <img src="https://img.newzone.top/2023-06-05-12-28-49.png?imageMogr2/format/webp"  alt="Chrome" valign="middle" /></a>

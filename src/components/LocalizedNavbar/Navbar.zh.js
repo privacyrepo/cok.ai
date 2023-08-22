@@ -2,13 +2,13 @@ const zhNavbar = {
   hideOnScroll: true,
   title: "COK AI",
   logo: {
-    alt: "ChatGPT Shortcuts",
+    alt: "COK AIs",
     src: "img/logo.svg",
   },
   items: [
     {
       to: "https://newzone.top/posts/2023-02-27-chatgpt_shortcuts.html",
-      label: "ChatGPT Shortcut 原理说明",
+      label: "COK AI 原理说明",
       position: "left",
     },
     {
@@ -39,7 +39,7 @@ const zhNavbar = {
       ],
     },
     {
-      to: "https://www.cok.ai.top/feedback",
+      to: "https://www.cok.ai/feedback",
       label: "反馈",
       position: "left",
     },

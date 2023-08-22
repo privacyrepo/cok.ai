@@ -2,7 +2,7 @@ const enNavbar = {
   hideOnScroll: true,
   title: "COK AI",
   logo: {
-    alt: "ChatGPT Shortcuts",
+    alt: "COK AIs",
     src: "img/logo.svg",
   },
   items: [
@@ -13,7 +13,7 @@ const enNavbar = {
       position: 'left',
     },
     {
-      to: "https://www.cok.ai.top/en/feedback",
+      to: "https://www.cok.ai/en/feedback",
       label: "Feedback",
       position: "left",
     },

@@ -40,11 +40,11 @@
     "description": "The welcome title on the feedback page"
   },
   "feedback.paragraph": {
-    "message": "Les suggestions, les idées et les commentaires sont les bienvenus afin d'améliorer continuellement ChatGPT Shortcut et d'accroître l'efficacité et la productivité personnelles. Si vous avez besoin de donner votre avis sur un bug, veuillez fournir un lien vers l'endroit où le problème s'est produit et les circonstances qui l'ont entouré. Pour le contenu des messages-guides, vous pouvez soumettre un contenu en plusieurs langues ou simplement décrire votre idée de message-guide. Nous recherchons des idées qui stimulent l'esprit ou qui produisent des résultats de grande qualité. Une fois que le message que vous avez soumis est publié, votre contribution est ajoutée à la page. Vous pouvez trouver l'entrée correspondante en recherchant le nom du contributeur (nom d'utilisateur).",
+    "message": "Les suggestions, les idées et les commentaires sont les bienvenus afin d'améliorer continuellement COK AI et d'accroître l'efficacité et la productivité personnelles. Si vous avez besoin de donner votre avis sur un bug, veuillez fournir un lien vers l'endroit où le problème s'est produit et les circonstances qui l'ont entouré. Pour le contenu des messages-guides, vous pouvez soumettre un contenu en plusieurs langues ou simplement décrire votre idée de message-guide. Nous recherchons des idées qui stimulent l'esprit ou qui produisent des résultats de grande qualité. Une fois que le message que vous avez soumis est publié, votre contribution est ajoutée à la page. Vous pouvez trouver l'entrée correspondante en recherchant le nom du contributeur (nom d'utilisateur).",
     "description": "The main paragraph on the feedback page"
   },
-  "cok.ai (ChatGPT Shortcut) - 简单易用的 ChatGPT 快捷指令表，让生产力倍增！标签筛选、关键词搜索和一键复制 Prompts": {
-    "message": "cok.ai (ChatGPT Shortcut) - Feuille de commande de raccourci ChatGPT facile à utiliser qui multiplie la productivité ! Filtrage des balises, recherche par mot-clé et copie en un seul clic."
+  "cok.ai (COK AI) - 简单易用的 ChatGPT 快捷指令表，让生产力倍增！标签筛选、关键词搜索和一键复制 Prompts": {
+    "message": "cok.ai (COK AI) - Feuille de commande de raccourci ChatGPT facile à utiliser qui multiplie la productivité ! Filtrage des balises, recherche par mot-clé et copie en un seul clic."
   },
   "让生产力加倍的 ChatGPT 快捷指令": {
     "message": "ChatGPT : des raccourcis qui doublent la productivité"

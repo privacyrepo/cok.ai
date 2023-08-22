@@ -16,7 +16,7 @@ Deutsch |
 <a href="./README-bn.md">বাংলা</a>
 </p>
 <p align="center">
-    <em>ChatGPT Shortcut, Maximize your Efficiency and Productivity</em>
+    <em>COK AI, Maximize your Efficiency and Productivity</em>
 </p>
 
 ## Warum cok.ai verwenden?
@@ -35,9 +35,9 @@ cok.ai bietet eine prägnante und benutzerfreundliche Liste von KI-Anweisungen. 
 
 🗳️ **Community-Abstimmungssystem**: Ähnlich wie Product Hunt oder Reddit, wird die Plattform von der Community betrieben. Die besten Prompts werden auf die Startseite geschoben.
 
-📦 **Sofort einsatzbereit**: Besuchen Sie einfach <https://www.cok.ai.top/de/> um zu starten.
+📦 **Sofort einsatzbereit**: Besuchen Sie einfach <https://www.cok.ai/de/> um zu starten.
 
-Die Quelle der cok.ai-Prompts umfasst Internet-Auswahl, Community-Teilungen und [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts). Wir werden regelmäßig aktualisieren, um Ihnen neue Prompts und Inspirationen zu bieten. Um zu verstehen, wie cok.ai verwendet wird, lesen Sie bitte das [Benutzerhandbuch](https://www.cok.ai.top/de/docs/guides/getting-started).
+Die Quelle der cok.ai-Prompts umfasst Internet-Auswahl, Community-Teilungen und [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts). Wir werden regelmäßig aktualisieren, um Ihnen neue Prompts und Inspirationen zu bieten. Um zu verstehen, wie cok.ai verwendet wird, lesen Sie bitte das [Benutzerhandbuch](https://www.cok.ai/de/docs/guides/getting-started).
 
 Willkommen in unserer Discord-Community, um Ideen auszutauschen und Feedback zu geben.
 
@@ -47,7 +47,7 @@ Willkommen in unserer Discord-Community, um Ideen auszutauschen und Feedback zu 
 
 ## Browser-Erweiterung
 
-Die cok.ai (ChatGPT Shortcut) Browser-Erweiterung unterstützt Chrome und Edge mit Funktionen, die mit der Webversion übereinstimmen und regelmäßig aktualisiert werden. Die Erweiterung kann automatisch ausgelöst werden, wenn die ChatGPT-Seite geladen wird, oder Sie können das Erweiterungsfenster durch Drücken der `Alt+Shift+S`-Taste aktivieren.
+Die cok.ai (COK AI) Browser-Erweiterung unterstützt Chrome und Edge mit Funktionen, die mit der Webversion übereinstimmen und regelmäßig aktualisiert werden. Die Erweiterung kann automatisch ausgelöst werden, wenn die ChatGPT-Seite geladen wird, oder Sie können das Erweiterungsfenster durch Drücken der `Alt+Shift+S`-Taste aktivieren.
 
 <a href="https://chrome.google.com/webstore/detail/cok.ai/blcgeoojgdpodnmnhfpohphdhfncblnj">
   <img src="https://img.newzone.top/2023-06-05-12-28-49.png?imageMogr2/format/webp"  alt="Chrome" valign="middle" /></a>

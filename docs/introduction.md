@@ -18,7 +18,7 @@ cok.ai 提供一份简洁易用的 AI 指令列表，即使不了解提示词知
 
 🗳️ **社区投票系统**：与 Product Hunt 或 Reddit 类似，平台由社区驱动，最佳提示词将推送至首页。
 
-📦 **开箱即用**：只需访问 <https://www.cok.ai.top/>，即可开始使用。
+📦 **开箱即用**：只需访问 <https://www.cok.ai/>，即可开始使用。
 
 cok.ai 的提示词来源包括网络精选、社区分享以及 [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)。如需了解本项目的开发背景和初衷，你可以阅读 [cok.ai 开发博客](https://newzone.top/posts/2023-02-27-chatgpt_shortcuts.html)。
 
@@ -30,7 +30,7 @@ cok.ai 的提示词来源包括网络精选、社区分享以及 [Awesome ChatGP
 
 ## 浏览器扩展
 
-cok.ai（ChatGPT Shortcut）的浏览器扩展支持 Chrome 和 Edge，其功能与网页版一致，会定期进行更新。这个扩展可以随着 ChatGPT 页面的加载而自动触发，或者你可以通过按下 `Alt+Shift+S` 热键来激活扩展窗口。
+cok.ai（COK AI）的浏览器扩展支持 Chrome 和 Edge，其功能与网页版一致，会定期进行更新。这个扩展可以随着 ChatGPT 页面的加载而自动触发，或者你可以通过按下 `Alt+Shift+S` 热键来激活扩展窗口。
 
 <a href="https://chrome.google.com/webstore/detail/cok.ai/blcgeoojgdpodnmnhfpohphdhfncblnj">
   <img src="https://img.newzone.top/2023-06-05-12-28-49.png?imageMogr2/format/webp"  alt="Chrome" valign="middle" /></a>

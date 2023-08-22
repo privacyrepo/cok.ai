@@ -40,11 +40,11 @@
     "description": "The welcome title on the feedback page"
   },
   "feedback.paragraph": {
-    "message": "Sugestões, ideias e palavras rápidas são bem-vindas para melhorar continuamente o ChatGPT Shortcut e aumentar a eficiência e produtividade pessoal. Se precisar de dar feedback sobre um bug, por favor, forneça um link para onde o problema ocorreu e as circunstâncias em torno dele. Para o conteúdo das mensagens, pode enviar conteúdo em várias línguas ou simplesmente descrever a sua ideia para uma mensagem. Estamos à procura de sugestões que estimulem a mente ou produzam resultados de alta qualidade. Assim que a proposta que submeter for publicada, a sua contribuição será adicionada à página. Pode encontrar a entrada correspondente procurando o nome do contribuidor (nome de utilizador).",
+    "message": "Sugestões, ideias e palavras rápidas são bem-vindas para melhorar continuamente o COK AI e aumentar a eficiência e produtividade pessoal. Se precisar de dar feedback sobre um bug, por favor, forneça um link para onde o problema ocorreu e as circunstâncias em torno dele. Para o conteúdo das mensagens, pode enviar conteúdo em várias línguas ou simplesmente descrever a sua ideia para uma mensagem. Estamos à procura de sugestões que estimulem a mente ou produzam resultados de alta qualidade. Assim que a proposta que submeter for publicada, a sua contribuição será adicionada à página. Pode encontrar a entrada correspondente procurando o nome do contribuidor (nome de utilizador).",
     "description": "The main paragraph on the feedback page"
   },
-  "cok.ai (ChatGPT Shortcut) - 简单易用的 ChatGPT 快捷指令表，让生产力倍增！标签筛选、关键词搜索和一键复制 Prompts": {
-    "message": "cok.ai (ChatGPT Shortcut) - Folha de comandos de atalho do ChatGPT fácil de usar que multiplica a produtividade! Filtragem de etiquetas, pesquisa de palavras-chave e prompts de cópia com um clique"
+  "cok.ai (COK AI) - 简单易用的 ChatGPT 快捷指令表，让生产力倍增！标签筛选、关键词搜索和一键复制 Prompts": {
+    "message": "cok.ai (COK AI) - Folha de comandos de atalho do ChatGPT fácil de usar que multiplica a produtividade! Filtragem de etiquetas, pesquisa de palavras-chave e prompts de cópia com um clique"
   },
   "让生产力加倍的 ChatGPT 快捷指令": {
     "message": "Comandos de atalho do ChatGPT que duplicam a produtividade"

@@ -2,7 +2,7 @@ import axios from "axios";
 import Cookies from "js-cookie";
 
 // 登陆体系常量
-const API_URL = "http://localhost:1337 "; // http://localhost:1337/api  https://api.newzone.top/api
+const API_URL = "https://api.newzone.top/api "; // http://localhost:1337/api  https://api.newzone.top/api
 const authToken = Cookies.get("auth_token"); // Get the auth token from the cookie
 
 const config = {

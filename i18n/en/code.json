@@ -480,7 +480,7 @@
     "description": "The welcome title on the feedback page"
   },
   "feedback.paragraph": {
-    "message": "We cordially invite you to provide suggestions, ideas, and prompts to continuously enhance ChatGPT Shortcut, thereby improving personal efficiency and productivity. If you encounter any bugs, please provide the relevant link and details of the issue. When it comes to prompt suggestions, you may submit content in multiple languages or simply describe your thoughts on the desired prompts. We look forward to expanding our collective knowledge and generating high-quality outputs through these suggestions. Once your submitted prompts are published, your contributions will be credited on the page. You can search for entries associated with your contributor name (username).",
+    "message": "We cordially invite you to provide suggestions, ideas, and prompts to continuously enhance COK AI, thereby improving personal efficiency and productivity. If you encounter any bugs, please provide the relevant link and details of the issue. When it comes to prompt suggestions, you may submit content in multiple languages or simply describe your thoughts on the desired prompts. We look forward to expanding our collective knowledge and generating high-quality outputs through these suggestions. Once your submitted prompts are published, your contributions will be credited on the page. You can search for entries associated with your contributor name (username).",
     "description": "The main paragraph on the feedback page"
   },
   "你的提示词": {
@@ -627,8 +627,8 @@
   "userInfo.email": {
     "message": "Mail:"
   },
-  "cok.ai (ChatGPT Shortcut) - 简单易用的 ChatGPT 快捷指令表，让生产力倍增！标签筛选、关键词搜索和一键复制 Prompts": {
-    "message": "cok.ai (ChatGPT Shortcut) - A simple and user-friendly ChatGPT shortcut command list that doubles productivity! Includes label filtering, prompt search, and one-click prompt copying."
+  "cok.ai (COK AI) - 简单易用的 ChatGPT 快捷指令表，让生产力倍增！标签筛选、关键词搜索和一键复制 Prompts": {
+    "message": "cok.ai (COK AI) - A simple and user-friendly COK AI command list that doubles productivity! Includes label filtering, prompt search, and one-click prompt copying."
   },
   "message.resetPassword.success": {
     "message": "Password reset successful!"

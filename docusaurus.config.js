@@ -9,12 +9,12 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title:
-    "cok.ai(ChatGPT Shortcut)-Tag filtering, keyword search, and one-click copy prompts",
+    "cok.ai(COK AI)-Tag filtering, keyword search, and one-click copy prompts",
   // tagline: '方便中文使用 ChatGPT 快捷指令',
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://www.cok.ai.top",
+  url: "https://www.cok.ai",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -124,14 +124,14 @@ const config = {
         {
           name: "keywords",
           content:
-            "prompt,cok.ai,ChatGPT Shortcut,ChatGPT SC,ChatGPT,AI prompts，提示词",
+            "prompt,cok.ai,COK AI,ChatGPT SC,ChatGPT,AI prompts，提示词",
         },
       ],
       navbar: {
         hideOnScroll: true,
         title: "COK AI",
         logo: {
-          alt: "ChatGPT Shortcuts",
+          alt: "COK AIs",
           src: "img/logo.svg",
         },
         items: [
@@ -214,7 +214,7 @@ const config = {
       },
       footer: {
         style: "dark",
-        copyright: `Copyright © ${new Date().getFullYear()} cok.ai (ChatGPT Shortcut)`,
+        copyright: `Copyright © ${new Date().getFullYear()} cok.ai (COK AI)`,
       },
       prism: {
         theme: lightCodeTheme,

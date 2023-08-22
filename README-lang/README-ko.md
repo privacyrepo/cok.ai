@@ -16,7 +16,7 @@
 <a href="./README-bn.md">বাংলা</a>
 </p>
 <p align="center">
-    <em>ChatGPT Shortcut, Maximize your Efficiency and Productivity</em>
+    <em>COK AI, Maximize your Efficiency and Productivity</em>
 </p>
 
 ## Why use cok.ai?
@@ -35,9 +35,9 @@ cok.ai 는 간결하면서 사용하기 쉬운 AI 명령어 리스트를 제공�
 
 🗳️ **커뮤니티 투표 시스템**: Product Hunt 이나 Reddit 과 비슷하게, 플랫폼은 커뮤니티 주도입니다. 최고의 프롬프트는 홈페이지로 밀려납니다.
 
-📦 **사용 준비 완료**: 바로 <https://www.cok.ai.top/ko/>을 방문하여 사용을 시작하세요.
+📦 **사용 준비 완료**: 바로 <https://www.cok.ai/ko/>을 방문하여 사용을 시작하세요.
 
-cok.ai 프롬프트의 출처는 인터넷 선택, 커뮤니티 공유, 그리고 [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)를 포함합니다. 우리는 규칙적으로 새로운 프롬프트와 영감을 제공하기 위해 업데이트할 것입니다. cok.ai 를 사용하는 방법에 대해 알아보려면, [사용자 매뉴얼](https://www.cok.ai.top/ko/docs/guides/getting-started)을 참조하십시오.
+cok.ai 프롬프트의 출처는 인터넷 선택, 커뮤니티 공유, 그리고 [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)를 포함합니다. 우리는 규칙적으로 새로운 프롬프트와 영감을 제공하기 위해 업데이트할 것입니다. cok.ai 를 사용하는 방법에 대해 알아보려면, [사용자 매뉴얼](https://www.cok.ai/ko/docs/guides/getting-started)을 참조하십시오.
 
 아이디어와 피드백을 교환하기 위해 우리의 디스코드 커뮤니티에 참여하십시오.
 
@@ -47,7 +47,7 @@ cok.ai 프롬프트의 출처는 인터넷 선택, 커뮤니티 공유, 그리�
 
 ## 브라우저 확장
 
-cok.ai (ChatGPT Shortcut) 브라우저 확장은 Chrome 과 Edge 를 지원하며, 웹 버전과 기능이 일치하며 규칙적으로 업데이트됩니다. 확장은 ChatGPT 페이지가 로드될 때 자동으로 트리거될 수 있으며, `Alt+Shift+S` 핫키를 눌러 확장 창을 활성화할 수 있습니다.
+cok.ai (COK AI) 브라우저 확장은 Chrome 과 Edge 를 지원하며, 웹 버전과 기능이 일치하며 규칙적으로 업데이트됩니다. 확장은 ChatGPT 페이지가 로드될 때 자동으로 트리거될 수 있으며, `Alt+Shift+S` 핫키를 눌러 확장 창을 활성화할 수 있습니다.
 
 <a href="https://chrome.google.com/webstore/detail/cok.ai/blcgeoojgdpodnmnhfpohphdhfncblnj">
   <img src="https://img.newzone.top/2023-06-05-12-28-49.png?imageMogr2/format/webp"  alt="Chrome" valign="middle" /></a>
