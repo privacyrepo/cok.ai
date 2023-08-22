@@ -9,20 +9,20 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title:
-    "AiShort(ChatGPT Shortcut)-Tag filtering, keyword search, and one-click copy prompts",
+    "cok.ai(ChatGPT Shortcut)-Tag filtering, keyword search, and one-click copy prompts",
   // tagline: '方便中文使用 ChatGPT 快捷指令',
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://www.aishort.top",
+  url: "https://www.cok.ai.top",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: "rockbenben", // Usually your GitHub org/user name.
-  projectName: "ChatGPT-Shortcut", // Usually your repo name.
+  organizationName: "privacyrepo", // Usually your GitHub org/user name.
+  projectName: "cok.ai", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -124,12 +124,12 @@ const config = {
         {
           name: "keywords",
           content:
-            "prompt,aishort,ChatGPT Shortcut,ChatGPT SC,ChatGPT,AI prompts，提示词",
+            "prompt,cok.ai,ChatGPT Shortcut,ChatGPT SC,ChatGPT,AI prompts，提示词",
         },
       ],
       navbar: {
         hideOnScroll: true,
-        title: "AI Short",
+        title: "COK AI",
         logo: {
           alt: "ChatGPT Shortcuts",
           src: "img/logo.svg",
@@ -164,15 +164,15 @@ const config = {
               },
               {
                 label: "Chrome 扩展",
-                href: "https://chrome.google.com/webstore/detail/chatgpt-shortcut/blcgeoojgdpodnmnhfpohphdhfncblnj",
+                href: "https://chrome.google.com/webstore/detail/cok.ai/blcgeoojgdpodnmnhfpohphdhfncblnj",
               },
               {
                 label: "Edge 扩展",
-                href: "https://microsoftedge.microsoft.com/addons/detail/chatgpt-shortcut/hnggpalhfjmdhhmgfjpmhlfilnbmjoin",
+                href: "https://microsoftedge.microsoft.com/addons/detail/cok.ai/hnggpalhfjmdhhmgfjpmhlfilnbmjoin",
               },
               {
                 label: "Find on Product Hunt",
-                href: "https://www.producthunt.com/posts/chatgpt-shortcut?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-chatgpt&#0045;shortcut",
+                href: "https://www.producthunt.com/posts/cok.ai?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-chatgpt&#0045;shortcut",
               },
             ],
           },
@@ -201,7 +201,7 @@ const config = {
           },
           { type: "localeDropdown", position: "right" },
           {
-            href: "https://github.com/rockbenben/ChatGPT-Shortcut",
+            href: "https://github.com/privacyrepo/cok.ai",
             position: "right",
             className: "header-github-link",
           },
@@ -214,7 +214,7 @@ const config = {
       },
       footer: {
         style: "dark",
-        copyright: `Copyright © ${new Date().getFullYear()} AiShort (ChatGPT Shortcut)`,
+        copyright: `Copyright © ${new Date().getFullYear()} cok.ai (ChatGPT Shortcut)`,
       },
       prism: {
         theme: lightCodeTheme,

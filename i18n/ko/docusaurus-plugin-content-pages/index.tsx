@@ -47,7 +47,7 @@ import styles from "@site/src/pages/styles.module.css";
 
 const TITLE = translate({
   message:
-    "AiShort (ChatGPT Shortcut) - 简单易用的 ChatGPT 快捷指令表，让生产力倍增！标签筛选、关键词搜索和一键复制 Prompts",
+    "cok.ai (ChatGPT Shortcut) - 简单易用的 ChatGPT 快捷指令表，让生产力倍增！标签筛选、关键词搜索和一键复制 Prompts",
 });
 const DESCRIPTION = translate({
   message: "让生产力加倍的 ChatGPT 快捷指令",
@@ -147,7 +147,7 @@ function ShowcaseHeader() {
   return (
     <section className={styles.mobileMarginAdjust + " text--center"}>
       <Heading as='h1' className={styles.hideOnMobile}>
-        AI Short
+        COK AI
       </Heading>
       <p>{DESCRIPTION}</p>
       <UserStatus hideLinks={{ userCenter: true, myFavorite: false }} />
@@ -224,7 +224,7 @@ function ShowcaseFilters({ onToggleDescription }) {
             <ShowcaseTooltip
               text={translate({
                 message:
-                  "你添加或制作过的个人提示词，可用于存放AiShort之外的提示词。",
+                  "你添加或制作过的个人提示词，可用于存放cok.ai之外的提示词。",
               })}
               anchorEl='#__docusaurus'>
               <ShowcaseTagSelect

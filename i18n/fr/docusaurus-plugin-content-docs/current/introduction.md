@@ -2,9 +2,9 @@
 slug: /
 ---
 
-# Présentation d'AiShort
+# Présentation d'cok.ai
 
-AiShort fournit une liste concise et facile à utiliser d'instructions AI. Même sans comprendre les invites, vous pouvez facilement trouver les invites adaptées à divers scénarios en filtrant et en cherchant, améliorant ainsi votre productivité.
+cok.ai fournit une liste concise et facile à utiliser d'instructions AI. Même sans comprendre les invites, vous pouvez facilement trouver les invites adaptées à divers scénarios en filtrant et en cherchant, améliorant ainsi votre productivité.
 
 🚀 **Invitations en un clic** : En un seul clic, vous pouvez obtenir une variété d'invitations soigneusement sélectionnées par des experts. Envoyez-les à des modèles de langage AI comme ChatGPT et vous pouvez obtenir la sortie attendue.
 
@@ -18,9 +18,9 @@ AiShort fournit une liste concise et facile à utiliser d'instructions AI. Même
 
 🗳️ **Système de vote communautaire** : Semblable à Product Hunt ou Reddit, la plateforme est pilotée par la communauté. Les meilleures invitations seront poussées sur la page d'accueil.
 
-📦 **Prêt à l'emploi** : Il suffit de visiter <https://www.aishort.top/fr/> pour commencer à utiliser.
+📦 **Prêt à l'emploi** : Il suffit de visiter <https://www.cok.ai.top/fr/> pour commencer à utiliser.
 
-La source des invitations AiShort comprend les sélections sur Internet, les partages de la communauté et [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts). Nous mettrons à jour régulièrement pour vous fournir de nouvelles invitations et de l'inspiration.
+La source des invitations cok.ai comprend les sélections sur Internet, les partages de la communauté et [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts). Nous mettrons à jour régulièrement pour vous fournir de nouvelles invitations et de l'inspiration.
 
 Bienvenue à rejoindre notre communauté Discord pour échanger des idées et des commentaires.
 
@@ -30,11 +30,11 @@ Bienvenue à rejoindre notre communauté Discord pour échanger des idées et de
 
 ## Extension de navigateur
 
-L'extension de navigateur AiShort (ChatGPT Shortcut) prend en charge Chrome et Edge avec une fonctionnalité cohérente avec la version web et est régulièrement mise à jour. L'extension peut être déclenchée automatiquement lorsque la page ChatGPT se charge, ou vous pouvez activer la fenêtre de l'extension en appuyant sur la touche de raccourci `Alt+Shift+S`.
+L'extension de navigateur cok.ai (ChatGPT Shortcut) prend en charge Chrome et Edge avec une fonctionnalité cohérente avec la version web et est régulièrement mise à jour. L'extension peut être déclenchée automatiquement lorsque la page ChatGPT se charge, ou vous pouvez activer la fenêtre de l'extension en appuyant sur la touche de raccourci `Alt+Shift+S`.
 
 
-<a href="https://chrome.google.com/webstore/detail/chatgpt-shortcut/blcgeoojgdpodnmnhfpohphdhfncblnj">
+<a href="https://chrome.google.com/webstore/detail/cok.ai/blcgeoojgdpodnmnhfpohphdhfncblnj">
   <img src="https://img.newzone.top/2023-06-05-12-28-49.png?imageMogr2/format/webp"  alt="Chrome" valign="middle" /></a>
 
-<a href="https://microsoftedge.microsoft.com/addons/detail/chatgpt-shortcut/hnggpalhfjmdhhmgfjpmhlfilnbmjoin">
+<a href="https://microsoftedge.microsoft.com/addons/detail/cok.ai/hnggpalhfjmdhhmgfjpmhlfilnbmjoin">
   <img src="https://img.newzone.top/2023-06-05-12-26-20.png?imageMogr2/format/webp" alt="Edge" valign="middle" /></a>

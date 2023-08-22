@@ -1,6 +1,6 @@
 const zhNavbar = {
   hideOnScroll: true,
-  title: "AI Short",
+  title: "COK AI",
   logo: {
     alt: "ChatGPT Shortcuts",
     src: "img/logo.svg",
@@ -18,7 +18,7 @@ const zhNavbar = {
       items: [
         {
           label: "Chrome 扩展版",
-          href: "https://chrome.google.com/webstore/detail/chatgpt-shortcut/blcgeoojgdpodnmnhfpohphdhfncblnj",
+          href: "https://chrome.google.com/webstore/detail/cok.ai/blcgeoojgdpodnmnhfpohphdhfncblnj",
         },
         {
           label: 'IMGPrompt',
@@ -34,18 +34,18 @@ const zhNavbar = {
         },
         {
           label: 'Find on Product Hunt',
-          href: 'https://www.producthunt.com/posts/chatgpt-shortcut?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-chatgpt&#0045;shortcut',
+          href: 'https://www.producthunt.com/posts/cok.ai?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-chatgpt&#0045;shortcut',
         },
       ],
     },
     {
-      to: "https://www.aishort.top/feedback",
+      to: "https://www.cok.ai.top/feedback",
       label: "反馈",
       position: "left",
     },
     { type: "localeDropdown", position: "right" },
     {
-      href: "https://github.com/rockbenben/ChatGPT-Shortcut",
+      href: "https://github.com/privacyrepo/cok.ai",
       position: "right",
       className: "header-github-link",
     },

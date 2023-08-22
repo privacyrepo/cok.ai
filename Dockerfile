@@ -32,5 +32,5 @@ EXPOSE 80
 CMD ["nginx", "-g", "daemon off;"]
 
 # 容器构建&运行命令
-# docker build -t chatgpt-shortcut .
-# docker run -d -p 80:80 --name chatgpt-shortcut chatgpt-shortcut
+# docker build -t cok.ai .
+# docker run -d -p 80:80 --name cok.ai cok.ai

@@ -49,10 +49,10 @@ Welcome to join our Discord community to exchange ideas and feedback.
 
 cok.ai (cok.ai) browser extension supports Chrome and Edge with functionality consistent with the web version and is regularly updated. The extension can be automatically triggered as the ChatGPT page loads, or you can activate the extension window by pressing the `Alt+Shift+S` hotkey.
 
-<a href="https://chrome.google.com/webstore/detail/chatgpt-shortcut/blcgeoojgdpodnmnhfpohphdhfncblnj">
+<a href="https://chrome.google.com/webstore/detail/cok.ai/blcgeoojgdpodnmnhfpohphdhfncblnj">
   <img src="https://img.newzone.top/2023-06-05-12-28-49.png?imageMogr2/format/webp"  alt="Chrome" valign="middle" /></a>
 
-<a href="https://microsoftedge.microsoft.com/addons/detail/chatgpt-shortcut/hnggpalhfjmdhhmgfjpmhlfilnbmjoin">
+<a href="https://microsoftedge.microsoft.com/addons/detail/cok.ai/hnggpalhfjmdhhmgfjpmhlfilnbmjoin">
   <img src="https://img.newzone.top/2023-06-05-12-26-20.png?imageMogr2/format/webp" alt="Edge" valign="middle" /></a>
 
 ## Deploy
