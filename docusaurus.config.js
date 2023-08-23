@@ -31,11 +31,11 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: "zh-Hans",
-    locales: ["zh-Hans", "en", "ja", "ko", "es", "fr", "de", "it", "ru", "pt", "hi", "ar", "bn"],
+    defaultLocale: "en-US",
+    locales: ["en", "zh", "ja", "ko", "es", "fr", "de", "it", "ru", "pt", "hi", "ar", "bn"],
     localeConfigs: {
-      en: {
-        htmlLang: "en-US",
+      zh: {
+        htmlLang: "zh-Hans",
       },
       ja: {
         htmlLang: "ja-JP",
